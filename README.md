@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @akshaynivash
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently doing my third year in B.Tech(Information Technology) 
+
 
 
 <!---
